@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amsubhash&label=Profile%20views&color=0e75b6&style=flat" alt="amsubhash" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amsubhash" alt="amsubhash" /></a> </p>
-
 - 🔭 I’m currently working on [Mermaid JS](https://mermaid.js.org/)
 
-- 📝 I regularly write articles on [subhashhalder.com](subhashhalder.com)
+- 📝 I regularly write articles on [subhashhalder.com](https://subhashhalder.com)
 
 - 📫 How to reach me **halder.subhash@gmail.com**
 
