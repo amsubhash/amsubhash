@@ -4,7 +4,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=subhash-halder&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on [Mermaid JS](https://mermaid.js.org/)
+- 🔭 I have recently started contributing to [Mermaid JS](https://mermaid.js.org/)
 
 - 📝 I regularly write articles on [subhashhalder.com](https://subhashhalder.com)
 
